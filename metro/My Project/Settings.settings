@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="TLName" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TL_BIG" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Julie</Value>
+    </Setting>
+    <Setting Name="TL_SMALL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="OL_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Julie Green</Value>
+    </Setting>
+    <Setting Name="SM_COLOR" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 4, 66</Value>
+    </Setting>
+    <Setting Name="SM_PROFILEP" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

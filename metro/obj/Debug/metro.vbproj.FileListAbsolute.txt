@@ -1,0 +1,13 @@
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\bin\Debug\metro.exe
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\bin\Debug\metro.pdb
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\bin\Debug\metro.xml
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\obj\Debug\metro.vbproj.GenerateResource.Cache
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\obj\Debug\metro.exe
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\obj\Debug\metro.xml
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\obj\Debug\metro.pdb
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\obj\Debug\metro.vbprojResolveAssemblyReference.cache
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\bin\Debug\metro.exe.config
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Morc\Documents\Visual Studio 2015\Projects\metro\metro\obj\Debug\WindowsApplication1.eightclass.resources
